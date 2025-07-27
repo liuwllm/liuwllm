@@ -1,11 +1,11 @@
 ### Hello! 👋
 
-My name is William.
+My name is William!
 
-I'm a third year **CS/Business student** from **Western University** seeking **Summer 2025** SWE internship opportunities. Some of my tech stack includes: 
-- **Languages**: TypeScript/JavaScript, Python, Java
+I'm a fourth year **CS/Business student** from **Western University** seeking **Summer 2026** SWE internship opportunities. Some of my tech stack includes: 
+- **Languages**: Python, TypeScript/JavaScript, Java, Rust, C++
 - **Tech**: React, Next.js, Node.js, Flask, PostgreSQL, GraphQL
-- **Tools**: Git, Docker, Figma
+- **Tools**: Git, Linux, Docker
 
 Beyond that, I'm also a fan of learning languages, making things look good, and losing at video games.
 
